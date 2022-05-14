@@ -1,0 +1,2 @@
+# CS50x
+Projects for the CS50x course
